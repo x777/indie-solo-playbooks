@@ -3,10 +3,14 @@
 </p>
 
 <p align="center">
+  Русский · <a href="en/README.md">English</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/playbooks-14-C9A24A?style=flat-square" alt="14 playbooks" />
   <img src="https://img.shields.io/badge/skills-7-C9A24A?style=flat-square" alt="7 skills" />
   <img src="https://img.shields.io/badge/updated-10%20Sep%202026-111111?style=flat-square" alt="Updated 10 Sep 2026" />
-  <img src="https://img.shields.io/badge/lang-RU-444444?style=flat-square" alt="Russian" />
+  <img src="https://img.shields.io/badge/lang-RU%20%2B%20EN-444444?style=flat-square" alt="Russian and English" />
   <img src="https://img.shields.io/badge/format-SKILL.md-2A261C?style=flat-square" alt="SKILL.md" />
 </p>
 
@@ -16,14 +20,14 @@
 
 ## Зачем этот репозиторий
 
-Два слоя:
+Два слоя.
 
 1. **Плейбуки** — сборники открытых тезисов одного основателя: философия, запуск, каналы, ошибки, 30 дней, источники.
 2. **Скилы** — короткие процедуры для агентов в формате [Agent Skills](https://agentskills.io) (`SKILL.md`). Агент не тащит все 14 текстов в каждый чат.
 
 Критерий отбора: соло / почти соло, живые продукты в 2025–2026, публичные цифры и повторяемый метод — не разовый хайп.
 
-Цифры внутри — их публичные заявления и скрины, не аудит.
+Цифры внутри — их публичные заявления и скрины, не аудит. Русские файлы — источник правды. Английские — зеркало в [`en/`](en/README.md).
 
 ---
 
@@ -100,5 +104,5 @@ cp -R skills/* ~/.cursor/skills/     # Cursor
 ---
 
 <p align="center">
-  <sub>Живой архив · обновлено 10 сентября 2026 · <a href="playbooks/01-jack-friks.md">плейбуки</a> · <a href="skills/">скилы</a></sub>
+  <sub>Живой архив · обновлено 10 сентября 2026 · <a href="playbooks/01-jack-friks.md">плейбуки</a> · <a href="skills/">скилы</a> · <a href="en/README.md">English</a></sub>
 </p>
