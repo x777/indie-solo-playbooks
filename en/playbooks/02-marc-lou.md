@@ -1,8 +1,8 @@
 # Marc Lou (@marclou)
 
+> [Русский](../../playbooks/02-marc-lou.md) · English
+>
 > Public launch and growth notes. Not a course and not insider material — a compilation of open posts, guides, and interviews as of September 2026.
-
-**Language:** [RU](../../playbooks/02-marc-lou.md) · EN
 
 - X: https://x.com/marclou
 - Site: https://marclou.com
@@ -10,7 +10,7 @@
 
 ---
 
-## Who this is and the numbers he publishes
+## Who he is and the numbers he publishes
 
 French solo founder. After five years of failures he took a job in 2021, saw Pieter Levels’ path, and started again: tiny startups + writing about them in public.
 

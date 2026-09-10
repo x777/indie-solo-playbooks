@@ -9,7 +9,7 @@ metadata:
 
 # Validate first
 
-Read first:
+Read first. Russian canon; if the user writes in English, open the same filename under `en/playbooks/`:
 
 - Demand before code — `playbooks/08-rob-hallam.md`
 - One audience, simple offer, marketing outside X — `playbooks/12-dan-kulkov.md`

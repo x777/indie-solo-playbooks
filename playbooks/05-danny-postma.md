@@ -1,5 +1,7 @@
 # Danny Postma (@dannypostma)
 
+> Русский · [English](../en/playbooks/05-danny-postma.md)
+>
 > Сборник публичных рекомендаций по запуску и росту. Не курс и не инсайд — компиляция открытых постов, официального about и разборов SEO на сентябрь 2026.
 
 - X: https://x.com/dannypostma (~183k)

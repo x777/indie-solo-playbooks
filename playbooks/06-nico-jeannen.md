@@ -1,5 +1,7 @@
 # Nico Jeannen (@nico_jeannen)
 
+> Русский · [English](../en/playbooks/06-nico-jeannen.md)
+>
 > Сборник публичных рекомендаций по запуску, рекламе и росту. Компиляция открытых постов на сентябрь 2026.
 
 - X: https://x.com/nico_jeannen

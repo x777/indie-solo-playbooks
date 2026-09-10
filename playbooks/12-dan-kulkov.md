@@ -1,5 +1,7 @@
 # Dan Kulkov (@DanKulkov)
 
+> Русский · [English](../en/playbooks/12-dan-kulkov.md)
+>
 > Сборник публичных рекомендаций по запуску и росту. Компиляция открытых постов и тредов на сентябрь 2026. Jack Friks называет его в одном ряду с Marc Lou и Nico.
 
 - X: https://x.com/DanKulkov

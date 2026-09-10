@@ -1,5 +1,7 @@
 # Alex Nguyen (@alexcooldev)
 
+> Русский · [English](../en/playbooks/09-alex-nguyen.md)
+>
 > Сборник публичных рекомендаций по запуску B2C-приложений и органическому трафику. Компиляция открытых постов на сентябрь 2026.
 
 - X: https://x.com/alexcooldev

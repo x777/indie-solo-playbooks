@@ -1,5 +1,7 @@
 # Damon Chen (@damonchen)
 
+> Русский · [English](../en/playbooks/13-damon-chen.md)
+>
 > Сборник публичных рекомендаций по запуску и росту. Компиляция интервью и постов на сентябрь 2026.
 
 - X: https://x.com/damonchen (~99k)

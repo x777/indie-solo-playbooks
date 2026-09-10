@@ -23,7 +23,7 @@ Or clone this repo and point the agent at it. `AGENTS.md` at the repo root is en
 | --- | --- |
 | `indie-solo-router` | User does not know which founder or channel to follow |
 | `indie-launch-x` | Launch and grow on X |
-| `indie-launch-seo` | Search / exact-match domains / AEO |
+| `indie-launch-seo` | Search / exact-match domains / commercial pages / AEO |
 | `indie-launch-shortform` | TikTok, UGC, slideshows |
 | `indie-launch-ads` | Meta ads, creatives, paid after a working offer |
 | `indie-validate-offer` | Idea is not validated yet |

@@ -1,5 +1,7 @@
 # Nevo David (@wickedguro)
 
+> Русский · [English](../en/playbooks/11-nevo-david.md)
+>
 > Сборник публичных рекомендаций по запуску и росту. Основа — его X Article и пост на postiz.com от 7–8 сентября 2026.
 
 - X: https://x.com/wickedguro (~18k)

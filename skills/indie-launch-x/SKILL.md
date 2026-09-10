@@ -9,7 +9,7 @@ metadata:
 
 # X launch
 
-Read the matching playbook before writing a plan:
+Read the matching playbook before writing a plan. Russian canon; if the user writes in English, open the same filename under `en/playbooks/`:
 
 - Ship or Die, one channel, portfolio — `playbooks/02-marc-lou.md`
 - X as the engine for one product — `playbooks/04-tony-dinh.md`
@@ -31,3 +31,4 @@ Audience-first warmup on TikTok/IG belongs in `indie-launch-shortform` (playbook
 - Do not send them to SEO or TikTok in the same 30 days unless they already have that channel working.
 - Do not invent tweet templates that contradict the chosen playbook.
 - Do not route Nico Jeannen or Danny Postma through this skill.
+- Do not route Rob Hallam here. His X loop is a validation device — use `indie-validate-offer`.

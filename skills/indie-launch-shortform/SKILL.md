@@ -9,7 +9,7 @@ metadata:
 
 # Short-form launch
 
-Read first:
+Read first. Russian canon; if the user writes in English, open the same filename under `en/playbooks/`:
 
 - Audience-first warmup, launch as an event — `playbooks/01-jack-friks.md`
 - TikTok farm, weekly profit, not brand — `playbooks/09-alex-nguyen.md`

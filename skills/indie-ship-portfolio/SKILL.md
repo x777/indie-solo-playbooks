@@ -9,7 +9,7 @@ metadata:
 
 # Ship a portfolio
 
-Read first:
+Read first. Russian canon; if the user writes in English, open the same filename under `en/playbooks/`:
 
 - Ship or Die, small bets — `playbooks/02-marc-lou.md`
 - Volume, public building, cheap stack — `playbooks/03-pieter-levels.md`

@@ -9,7 +9,7 @@ metadata:
 
 # Paid ads
 
-Read the matching playbook before writing a plan:
+Read the matching playbook before writing a plan. Russian canon; if the user writes in English, open the same filename under `en/playbooks/`:
 
 - Creative is 80%, customer language, ads as an accelerator — `playbooks/06-nico-jeannen.md`
 - Visual offer + paid after organic — `playbooks/05-danny-postma.md`

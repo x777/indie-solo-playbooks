@@ -1,8 +1,8 @@
 # Jack Friks (@jackfriks)
 
+> [Русский](../../playbooks/01-jack-friks.md) · English
+>
 > Public launch and growth notes. Not a course and not insider material — a compilation of the official Growth Guide, threads, and posts as of September 2026. This is the same collection the repository started from.
-
-**Language:** [RU](../../playbooks/01-jack-friks.md) · EN
 
 - X: https://x.com/jackfriks
 - Product: [Post Bridge](https://www.post-bridge.com/) — cross-posting and scheduling
@@ -11,7 +11,7 @@
 
 ---
 
-## Who this is and the numbers he publishes
+## Who he is and the numbers he publishes
 
 Solo founder. Builds products and teaches organic short-form growth without an ads budget. The ShipFast brand is what he says pushed him into solo SaaS. In 2026 he moved the system from manual posting to agents (ChatGPT / Claude / MCP): “the end of an era of paying myself to do marketing.”
 
