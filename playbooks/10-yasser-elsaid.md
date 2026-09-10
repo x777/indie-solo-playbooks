@@ -1,5 +1,7 @@
 # Yasser Elsaid (@yasser_elsaid_)
 
+> Русский · [English](../en/playbooks/10-yasser-elsaid.md)
+>
 > Сборник публичных рекомендаций по запуску и PLG. Основа — его посты, интервью и профиль Chatbase на TrustMRR, сентябрь 2026.
 
 - X: https://x.com/yasser_elsaid_ (~61k)
