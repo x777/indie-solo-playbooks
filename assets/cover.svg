@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="Indie Solo Playbooks">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0b0d"/>
+      <stop offset="55%" stop-color="#121214"/>
+      <stop offset="100%" stop-color="#1a140c"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="50%" cy="18%" r="62%">
+      <stop offset="0%" stop-color="#d4af77" stop-opacity="0.22"/>
+      <stop offset="55%" stop-color="#d4af77" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8c6b3a"/>
+      <stop offset="50%" stop-color="#e8c989"/>
+      <stop offset="100%" stop-color="#8c6b3a"/>
+    </linearGradient>
+    <pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.4" fill="#fff" opacity="0.05"/>
+      <circle cx="4" cy="3" r="0.3" fill="#000" opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#spot)"/>
+  <rect width="1280" height="640" fill="url(#grain)"/>
+
+  <rect x="48" y="48" width="1184" height="544" fill="none" stroke="url(#gold)" stroke-opacity="0.35" stroke-width="1"/>
+  <rect x="56" y="56" width="1168" height="528" fill="none" stroke="#e8c989" stroke-opacity="0.08" stroke-width="0.5"/>
+
+  <text x="640" y="168" text-anchor="middle" fill="#c4b59a" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="8">PUBLIC SYSTEMS · SEPTEMBER 2026</text>
+
+  <text x="640" y="278" text-anchor="middle" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" letter-spacing="6">INDIE SOLO</text>
+  <text x="640" y="360" text-anchor="middle" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" letter-spacing="10">PLAYBOOKS</text>
+
+  <line x1="470" y1="400" x2="810" y2="400" stroke="url(#gold)" stroke-width="1.2"/>
+  <circle cx="640" cy="400" r="3.5" fill="#e8c989"/>
+
+  <text x="640" y="452" text-anchor="middle" fill="#d9cbb0" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="1.5">14 систем запуска и роста от соло-фаундеров</text>
+  <text x="640" y="500" text-anchor="middle" fill="#8a8072" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="3">X THREADS · LAUNCH · DISTRIBUTION · MONETIZATION</text>
+</svg>
