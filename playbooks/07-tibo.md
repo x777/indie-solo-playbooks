@@ -1,5 +1,7 @@
 # Tibo (@tibo_maker)
 
+> Русский · [English](../en/playbooks/07-tibo.md)
+>
 > Сборник публичных рекомендаций по запуску и росту. Основа — статья «If I had to start over» (2026) и открытые посты на сентябрь 2026.
 
 - X: https://x.com/tibo_maker (~207k)
