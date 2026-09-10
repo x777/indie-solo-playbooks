@@ -65,9 +65,9 @@ Catalog: [`../skills/`](../skills/) · how to load: [`../AGENTS.md`](../AGENTS.m
 | Skill | Use when |
 | --- | --- |
 | [indie-solo-router](../skills/indie-solo-router/SKILL.md) | not sure which system to follow |
-| [indie-launch-x](../skills/indie-launch-x/SKILL.md) | warmup and launch on X |
+| [indie-launch-x](../skills/indie-launch-x/SKILL.md) | X as the engine |
 | [indie-launch-seo](../skills/indie-launch-seo/SKILL.md) | search, domains, AEO |
-| [indie-launch-shortform](../skills/indie-launch-shortform/SKILL.md) | TikTok / UGC |
+| [indie-launch-shortform](../skills/indie-launch-shortform/SKILL.md) | TikTok / UGC / warmup |
 | [indie-launch-ads](../skills/indie-launch-ads/SKILL.md) | Meta ads, creatives |
 | [indie-validate-offer](../skills/indie-validate-offer/SKILL.md) | the idea is not selling yet |
 | [indie-ship-portfolio](../skills/indie-ship-portfolio/SKILL.md) | many small products |
