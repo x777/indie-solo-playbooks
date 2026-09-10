@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="480" viewBox="0 0 1400 480" role="img" aria-label="Indie Solo Playbooks">
+  <defs>
+    <linearGradient id="bg-en" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08080d"/>
+      <stop offset="55%" stop-color="#101018"/>
+      <stop offset="100%" stop-color="#1a1410"/>
+    </linearGradient>
+    <linearGradient id="gold-en" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f6d98a"/>
+      <stop offset="100%" stop-color="#c9a24a"/>
+    </linearGradient>
+    <linearGradient id="line-en" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f6d98a" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#f6d98a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#f6d98a" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow-en" cx="78%" cy="18%" r="46%">
+      <stop offset="0%" stop-color="#e8c36a" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#e8c36a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid-en" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="480" fill="url(#bg-en)"/>
+  <rect width="1400" height="480" fill="url(#grid-en)"/>
+  <rect width="1400" height="480" fill="url(#glow-en)"/>
+  <circle cx="1180" cy="90" r="160" fill="none" stroke="#f6d98a" stroke-opacity="0.12" stroke-width="1"/>
+  <circle cx="1180" cy="90" r="230" fill="none" stroke="#f6d98a" stroke-opacity="0.07" stroke-width="1"/>
+  <rect x="72" y="86" width="72" height="6" rx="3" fill="url(#gold-en)"/>
+  <text x="72" y="168" fill="#f4efe4" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="4">INDIE SOLO</text>
+  <text x="72" y="244" fill="url(#gold-en)" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="8">PLAYBOOKS</text>
+  <rect x="72" y="276" width="420" height="1" fill="url(#line-en)"/>
+  <text x="72" y="322" fill="#cfc6b4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22">14 public launch and growth systems</text>
+  <text x="72" y="358" fill="#8f8778" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18">solo founders · current as of September 2026</text>
+  <g font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#1a140c">
+    <rect x="72" y="392" width="118" height="28" rx="14" fill="#f6d98a"/>
+    <text x="131" y="411" text-anchor="middle">14 playbooks</text>
+    <rect x="202" y="392" width="96" height="28" rx="14" fill="#2a261c" stroke="#f6d98a" stroke-opacity="0.35"/>
+    <text x="250" y="411" text-anchor="middle" fill="#f6d98a">no VC</text>
+    <rect x="310" y="392" width="128" height="28" rx="14" fill="#2a261c" stroke="#f6d98a" stroke-opacity="0.35"/>
+    <text x="374" y="411" text-anchor="middle" fill="#f6d98a">public sources</text>
+  </g>
+</svg>
