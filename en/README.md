@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/cover.svg" alt="Indie Solo Playbooks" width="100%" />
+  <img src="../assets/cover-en.svg" alt="Indie Solo Playbooks" width="100%" />
 </p>
 
 <p align="center">
