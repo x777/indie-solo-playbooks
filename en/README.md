@@ -47,7 +47,7 @@ The Russian files remain the canonical source. This folder is a mirror.
 | 08 | [Rob Hallam](playbooks/08-rob-hallam.md) | [@robj3d3](https://x.com/robj3d3) | Demand first, then code |
 | 09 | [Alex Nguyen](playbooks/09-alex-nguyen.md) | [@alexcooldev](https://x.com/alexcooldev) | Short-video volume, profit in a week |
 | 10 | [Yasser Elsaid](playbooks/10-yasser-elsaid.md) | [@yasser_elsaid_](https://x.com/yasser_elsaid_) | Public MRR as a channel and as trust |
-| 11 | [Nevo David](playbooks/11-nevo-david.md) | [@nevodavid](https://x.com/nevodavid) | Sell the outcome, not another Buffer |
+| 11 | [Nevo David](playbooks/11-nevo-david.md) | [@wickedguro](https://x.com/wickedguro) | Sell the outcome, not another Buffer |
 | 12 | [Dan Kulkov](playbooks/12-dan-kulkov.md) | [@DanKulkov](https://x.com/DanKulkov) | One audience, a simple offer, marketing off X |
 | 13 | [Damon Chen](playbooks/13-damon-chen.md) | [@damonchen](https://x.com/damonchen) | Domain = query. X starts, Google scales |
 | 14 | [Ilias Ism](playbooks/14-illyism.md) | [@illyism](https://x.com/illyism) | SEO catches demand. Sell by hand first |
