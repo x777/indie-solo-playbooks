@@ -1,5 +1,7 @@
 # Ilias Ism (@illyism)
 
+> Русский · [English](../en/playbooks/14-illyism.md)
+>
 > Сборник публичных рекомендаций по запуску и SEO. Компиляция тредов, il.ly и кейсов на сентябрь 2026.
 
 - X: https://x.com/illyism (~29k)
