@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/playbooks-14-C9A24A?style=flat-square" alt="14 playbooks" />
   <img src="https://img.shields.io/badge/skills-7-C9A24A?style=flat-square" alt="7 skills" />
-  <img src="https://img.shields.io/badge/updated-10%20Sep%202026-111111?style=flat-square" alt="Updated 10 Sep 2026" />
+  <img src="https://img.shields.io/badge/updated-11%20Sep%202026-111111?style=flat-square" alt="Updated 11 Sep 2026" />
   <img src="https://img.shields.io/badge/lang-RU%20%2B%20EN-444444?style=flat-square" alt="Russian and English" />
   <img src="https://img.shields.io/badge/format-SKILL.md-2A261C?style=flat-square" alt="SKILL.md" />
 </p>
@@ -37,11 +37,11 @@
 
 | # | Кто | Хендл | Суть системы |
 | ---: | --- | --- | --- |
-| 01 | [Jack Friks](playbooks/01-jack-friks.md) | [@jackfriks](https://x.com/jackfriks) | Аудитория сначала, прогрев, запуск как событие |
+| 01 | [Jack Friks](playbooks/01-jack-friks.md) | [@jackfriks](https://x.com/jackfriks) | Прогрев TikTok/IG, запуск как событие |
 | 02 | [Marc Lou](playbooks/02-marc-lou.md) | [@marclou](https://x.com/marclou) | Ship or Die: портфель, скорость, один канал |
 | 03 | [Pieter Levels](playbooks/03-pieter-levels.md) | [@levelsio](https://x.com/levelsio) | Шипить грязно, жить в публике, ловить волну |
 | 04 | [Tony Dinh](playbooks/04-tony-dinh.md) | [@tdinh_me](https://x.com/tdinh_me) | Один продукт — один канал. X как движок |
-| 05 | [Danny Postma](playbooks/05-danny-postma.md) | [@dannypostma](https://x.com/dannypostma) | Paid + продукт, который сам себя показывает |
+| 05 | [Danny Postma](playbooks/05-danny-postma.md) | [@dannypostma](https://x.com/dannypostma) | Paid после органики + продукт, который сам себя показывает |
 | 06 | [Nico Jeannen](playbooks/06-nico-jeannen.md) | [@nico_jeannen](https://x.com/nico_jeannen) | Meta ads и креатив, не треды |
 | 07 | [Tibo](playbooks/07-tibo.md) | [@tibo_maker](https://x.com/tibo_maker) | Портфель и партнёрства, не один хит |
 | 08 | [Rob Hallam](playbooks/08-rob-hallam.md) | [@robj3d3](https://x.com/robj3d3) | Сначала спрос, потом код. Валидация до сборки |
@@ -63,9 +63,9 @@
 | Скил | Когда включать |
 | --- | --- |
 | [indie-solo-router](skills/indie-solo-router/SKILL.md) | непонятно, какую систему брать |
-| [indie-launch-x](skills/indie-launch-x/SKILL.md) | прогрев и запуск в X |
+| [indie-launch-x](skills/indie-launch-x/SKILL.md) | запуск и рост в X |
 | [indie-launch-seo](skills/indie-launch-seo/SKILL.md) | поиск, домены, AEO |
-| [indie-launch-shortform](skills/indie-launch-shortform/SKILL.md) | TikTok / UGC |
+| [indie-launch-shortform](skills/indie-launch-shortform/SKILL.md) | TikTok / UGC / прогрев |
 | [indie-launch-ads](skills/indie-launch-ads/SKILL.md) | Meta ads, креатив |
 | [indie-validate-offer](skills/indie-validate-offer/SKILL.md) | идея ещё не продаётся |
 | [indie-ship-portfolio](skills/indie-ship-portfolio/SKILL.md) | много маленьких продуктов |
@@ -106,5 +106,5 @@ cp -R skills/* ~/.cursor/skills/     # Cursor
 ---
 
 <p align="center">
-  <sub>Живой архив · обновлено 10 сентября 2026 · <a href="playbooks/01-jack-friks.md">плейбуки</a> · <a href="en/README.md">English</a> · <a href="skills/">скилы</a></sub>
+  <sub>Живой архив · обновлено 11 сентября 2026 · <a href="playbooks/01-jack-friks.md">плейбуки</a> · <a href="en/README.md">English</a> · <a href="skills/">скилы</a></sub>
 </p>
